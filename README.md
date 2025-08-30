@@ -12,8 +12,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujal-kalmegh&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sujal-kalmegh&theme=tokyonight)
 ### 🚀 Featured Projects
-- [📂 Portfolio Website](https://github.com/sujalkalmegh/portfolio)
-- [📊 Student Habit Tracker](https://github.com/sujalkalmegh/student-habit-tracker)
+- [📂 Portfolio Website](https://sujal-kalmegh.github.io/Portfolio/)
 
 > 💡 "Code is like humor. When you have to explain it, it’s bad."
 
