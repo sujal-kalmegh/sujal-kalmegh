@@ -18,6 +18,13 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=sujal-kalmegh&color=blue)
 
+### 🏅 LeetCode Progress  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Sujal_Kalmegh?theme=dark&ext=heatmap&font=JetBrains%20Mono" />
+</p>
+
+---
 
 
 
